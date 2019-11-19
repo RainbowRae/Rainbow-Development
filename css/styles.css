@@ -1,0 +1,22 @@
+  body {
+    background-color: powderblue;
+  }
+
+  hr {
+    border-style: none;
+    border-top: 5px dotted;
+    border-color: lightcoral;
+    border-width: 8px;
+    width: 3%;
+  }
+
+  h1 {
+    color: darkred;
+    text-shadow: 3px -3px lightcoral;
+
+  }
+
+  h3 {
+    color: lightcoral;
+    text-decoration: overline;
+  }
